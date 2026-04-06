@@ -44,3 +44,6 @@ Permitir la creación de distintos tipos de notificadores sin acoplar el código
 ```bash
 mvn compile
 
+<img width="807" height="312" alt="image" src="https://github.com/user-attachments/assets/f0a21ce7-3a40-40c9-b54d-086e1b3ff963" />
+
+
