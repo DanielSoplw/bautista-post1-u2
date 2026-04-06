@@ -1,5 +1,4 @@
 # Sistema de Notificaciones - Patrones Creacionales
-
 ## 📌 Descripción
 Este proyecto implementa un sistema de notificaciones para un e-commerce utilizando patrones de diseño creacionales en Java.
 
@@ -43,5 +42,6 @@ Permitir la creación de distintos tipos de notificadores sin acoplar el código
 
 ```bash
 mvn compile
+```
 
-![alt text](image.png)
+![Consola de terminal con salida de demo de Singleton y Factory Method que muestra la misma instancia: true, notificaciones enviadas por email, SMS, push y Slack con marcas de tiempo, y un historial final que indica total 4 notificaciones](image.png)
